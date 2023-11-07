@@ -76,4 +76,5 @@ ord() = gets the code point of a one character string
 chr() = gets hte one character string of a code point
 
 pyperclip = option for copy and paste
+given examples on putting in bullet poimns
 """
